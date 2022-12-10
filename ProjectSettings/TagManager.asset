@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataforma
+  - Background
+  - Bg Layer2
+  - Bg Layer3
+  - Meteor
+  - BgMusic
+  - PlayerSFX
+  - DeathMusic
+  - Music
+  - Obstacle
+  - Menu
+  - Death Menu
+  - UI
+  - Pause
+  - Tool
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Scenario
+  - Water
+  - UI
+  - Player
+  - Obstacle
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

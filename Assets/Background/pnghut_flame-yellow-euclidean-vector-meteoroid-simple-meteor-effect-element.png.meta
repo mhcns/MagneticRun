@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: a3cb9da5cb5695149b3c4a19ce322f18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1299654377073496919
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_0
+  - first:
+      213: 3220522795033659933
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_1
+  - first:
+      213: 6410764269251258428
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_2
+  - first:
+      213: 1429340441661423338
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_3
+  - first:
+      213: -6871834001620615691
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_4
+  - first:
+      213: 8281501364190490930
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_5
+  - first:
+      213: 5807364414152697981
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_6
+  - first:
+      213: 764316418174763365
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_7
+  - first:
+      213: 6167806226007292757
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_8
+  - first:
+      213: -7592499415082866938
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_9
+  - first:
+      213: 1775744900682363057
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_10
+  - first:
+      213: -822521645439371070
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_11
+  - first:
+      213: 7082182788486021428
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_12
+  - first:
+      213: -7737509869689303323
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_13
+  - first:
+      213: -5596907035089722717
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_14
+  - first:
+      213: -8620827718330749278
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_15
+  - first:
+      213: -7170310460422826451
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_16
+  - first:
+      213: 1711194296401838887
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_17
+  - first:
+      213: -652776361872173438
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_18
+  - first:
+      213: 6435083825268481254
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_19
+  - first:
+      213: -1569813996551575262
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_20
+  - first:
+      213: -9185965377303387873
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_21
+  - first:
+      213: 937362016684726404
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_22
+  - first:
+      213: 1924548821594971678
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_23
+  - first:
+      213: 8280235826246850146
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_24
+  - first:
+      213: 7458011173720858405
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_25
+  - first:
+      213: 7686203002471790654
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_26
+  - first:
+      213: 1124733103596403819
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_27
+  - first:
+      213: 6939516645332636305
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_28
+  - first:
+      213: -1217036020200550290
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_29
+  - first:
+      213: -5609930271701861070
+    second: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 733
+        width: 182
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca0cbda33b6fde0800000000000000
+      internalID: -1299654377073496919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 749
+        width: 189
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a87054b6891bc20800000000000000
+      internalID: 3220522795033659933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 875
+        width: 109
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ec7f132c97f850800000000000000
+      internalID: 6410764269251258428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1003
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee34580f8906d310800000000000000
+      internalID: 1429340441661423338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 751
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdb3f1526752a0a0800000000000000
+      internalID: -6871834001620615691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 467
+        width: 193
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bc7b0d9dcde270800000000000000
+      internalID: 8281501364190490930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 487
+        width: 157
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e0da7a27e79050800000000000000
+      internalID: 5807364414152697981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_7
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 633
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614e499bb56b9a00800000000000000
+      internalID: 764316418174763365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 501
+        width: 109
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7b988513789550800000000000000
+      internalID: 6167806226007292757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 198
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607ef9e320602a690800000000000000
+      internalID: -7592499415082866938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 332
+        width: 139
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b032e03496b4a810800000000000000
+      internalID: 1775744900682363057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 361
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8348fdbe0d594f0800000000000000
+      internalID: -822521645439371070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 205
+        width: 143
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431481e19b7f84260800000000000000
+      internalID: 7082182788486021428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee0713c4c7de9490800000000000000
+      internalID: -7737509869689303323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 196
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a79c84bac352b0800000000000000
+      internalID: -5596907035089722717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_15
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 203
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeed038ddaac5880800000000000000
+      internalID: -8620827718330749278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_16
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 187
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26da3d40a0fd7c90800000000000000
+      internalID: -7170310460422826451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 208
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c4b275226fb710800000000000000
+      internalID: 1711194296401838887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 43
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28656d08b5fd0f6f0800000000000000
+      internalID: -652776361872173438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 158
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5df005a20e4950800000000000000
+      internalID: 6435083825268481254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_20
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 151
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296b14cc76e63ae0800000000000000
+      internalID: -1569813996551575262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 103
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f116bce9825e48080800000000000000
+      internalID: -9185965377303387873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 103
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488df6ea9cd220d00800000000000000
+      internalID: 937362016684726404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 118
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9010e4fe55ba10800000000000000
+      internalID: 1924548821594971678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_24
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 87
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26618e70d9e49e270800000000000000
+      internalID: 8280235826246850146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 78
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f9684f5ad208760800000000000000
+      internalID: 7458011173720858405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 57
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e383fd158e0eaaa60800000000000000
+      internalID: 7686203002471790654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7cf27ccadb9f00800000000000000
+      internalID: 1124733103596403819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_28
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 53
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19256fd2f9d1e4060800000000000000
+      internalID: 6939516645332636305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 26
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60571110383c1fe0800000000000000
+      internalID: -1217036020200550290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_flame-yellow-euclidean-vector-meteoroid-simple-meteor-effect-element_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 18
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dff7cf3268522b0800000000000000
+      internalID: -5609930271701861070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
